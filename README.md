@@ -7,7 +7,7 @@ Play directly by downloading the portable version — no Java or installation re
 
 ## 🚀 How to Play
 
-1. Go to the [**Latest Release**](t)https://github.com/Ahnaf-Labib10/Snake-Game/releases/lates
+1. Go to the [**Latest Release**](t)[https://github.com/Ahnaf-Labib10/Snake-Game/releases/lates](https://ahnaf-labib10.github.io/Snake-Game/)
 2. Download **Snake Game.zip**
 3. Extract it to any folder
 4. Run `SnakeGame.exe`
