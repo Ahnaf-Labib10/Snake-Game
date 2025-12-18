@@ -1,16 +1,50 @@
 # 🐍 Snake Game
 
-A classic **Snake Game** built in Java using Swing!  
-Play directly by downloading the portable version — no Java or installation required 🎮  
+A classic **Snake Game** built in **Java (Swing)**!
+
+Play instantly by downloading the portable version —  
+**no Java installation required** 🎮
 
 ---
 
 ## 🚀 How to Play
 
-1. Go to the [**Latest Release**](t)[(https://ahnaf-labib10.github.io/Snake-Game/)](https://github.com/Ahnaf-Labib10/Snake-Game/releases/download/v1.0/Snake.Game.zip)
-2. Download **Snake Game.zip**
+1. Go to the **Latest Release**  
+   👉 https://github.com/Ahnaf-Labib10/Snake-Game/releases
+
+2. Download **SnakeGame.zip**
+
 3. Extract it to any folder
-4. Run `SnakeGame.exe`
+
+4. Run **SnakeGame.exe**
+
+✅ Works even if Java is not installed  
+🎨 Background graphics included automatically  
+
+---
+
+## 🧠 Gameplay
+
+- Eat apples to grow longer  
+- Avoid hitting walls or yourself  
+- Speed increases as you progress  
+
+---
+
+## ✨ Features
+
+- Smooth snake movement & keyboard controls  
+- Score & top-score tracking  
+- Dynamic difficulty scaling  
+- Background graphics & game-over screen  
+- Lightweight portable build (no installer needed)
+
+---
+
+## 🖥️ Platform
+
+- Windows (64-bit)
+
 
 ✅ Works even if you don’t have Java installed!  
 🏁 Eat apples, grow longer, and avoid hitting yourself or the walls!
